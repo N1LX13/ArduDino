@@ -1,7 +1,7 @@
 # ArduDino
 A small dino game for Arduino Uno with point tracking and a game over screen.
 
-__  PINS: __
+__PINS:__
 
 OLED SCREEN:
 VCC: 5V
